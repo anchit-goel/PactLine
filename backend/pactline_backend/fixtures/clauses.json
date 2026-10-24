@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cls_ip_transfer_001",
+    "title": "SYNTHETIC PLACEHOLDER - Intellectual Property Ownership",
+    "snippet": "Creator hereby assigns all worldwide right, title, and interest in and to the custom Deliverables created specifically under this Agreement to Brand upon receipt of final milestone payout.",
+    "category": "ip"
+  },
+  {
+    "id": "cls_disclosure_002",
+    "title": "SYNTHETIC PLACEHOLDER - Promotional Disclosure and Sponsorship",
+    "snippet": "Creator agrees to include clear, conspicuous disclosure (#Ad, #Sponsored) at the beginning of all published content in compliance with FTC Guides and applicable advertising standards.",
+    "category": "compliance"
+  },
+  {
+    "id": "cls_exclusivity_003",
+    "title": "SYNTHETIC PLACEHOLDER - Limited Category Exclusivity",
+    "snippet": "Creator shall not endorse or partner with direct commercial competitors in the consumer tech audio hardware category for a period of thirty (30) days following public campaign launch.",
+    "category": "exclusivity"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "brief": "Creator collaboration for flagship tech review: 3-milestone deliverables (Concept approval, Draft review, Final live publication) with mandatory FTC promotional disclosure (#Ad, #Sponsored) and 30-day non-compete.",
+  "budget": 10000,
+  "creators_count": 1,
+  "metadata": {
+    "brand_name": "SoundCore Tech",
+    "campaign_category": "Consumer Electronics",
+    "target_platform": "YouTube",
+    "primary_creator": "AlexRiveraTech",
+    "tds_withholding_rate": 0.10,
+    "require_human_gate": true
+  }
+}

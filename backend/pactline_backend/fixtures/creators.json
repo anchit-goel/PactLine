@@ -1,0 +1,26 @@
+[
+  {
+    "id": "crt_alex_tech_001",
+    "name": "Alex Tech Reviews (SYNTHETIC PLACEHOLDER)",
+    "handle": "@alextech",
+    "niche": "Consumer Electronics",
+    "rate_card_base": 5000.0,
+    "jurisdiction": "US"
+  },
+  {
+    "id": "crt_sam_gaming_002",
+    "name": "Sam Plays (SYNTHETIC PLACEHOLDER)",
+    "handle": "@samplays",
+    "niche": "Gaming & Hardware",
+    "rate_card_base": 3500.0,
+    "jurisdiction": "UK"
+  },
+  {
+    "id": "crt_priya_creator_003",
+    "name": "Priya Lifestyle & Tech (SYNTHETIC PLACEHOLDER)",
+    "handle": "@priyacreates",
+    "niche": "Mobile Lifestyle",
+    "rate_card_base": 4200.0,
+    "jurisdiction": "IN"
+  }
+]

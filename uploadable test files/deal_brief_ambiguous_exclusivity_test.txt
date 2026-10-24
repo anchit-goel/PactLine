@@ -1,0 +1,14 @@
+Campaign Title: Fitness Apparel Quarterly Brand Ambassador
+Brand / Sponsor: Zenith Activewear
+Total Budget: $15,000 USD
+Number of Creators: 1
+Target Creator: @ElenaVlogs (Instagram, 520K followers)
+
+Deliverables:
+- Milestone 1: 4x Instagram grid photo carousels wearing the Summer Collection.
+- Milestone 2: 2x Dedicated Reels demonstrating gym workout and moisture-wicking fabric durability.
+- Milestone 3: 3x Story swipe-up discount code promotions with live conversion analytics.
+
+Flagged Edge Case / Ambiguity Test:
+- Exclusivity Clause: "Creator shall refrain indefinitely from endorsing, wearing, or mentioning any competing athletic apparel brand on any social platform without prior written consent."
+- Notice: The PactLine compliance auditor agent will flag this clause as unconscionable / legally unenforceable due to indefinite duration, and automatically recommend narrowing the non-compete window to 30 days post-campaign.

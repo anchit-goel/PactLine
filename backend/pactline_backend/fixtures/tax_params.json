@@ -1,0 +1,7 @@
+{
+  "verified": false,
+  "note": "CRITICAL: A human compliance/tax officer must confirm all tax and withholding rates from the official jurisdictional authority before executing live payouts. These parameters are synthetic demonstration placeholders and must NEVER be treated as verified legal facts.",
+  "withholding_rate": 0.10,
+  "currency": "USD",
+  "statutory_reference": "SYNTHETIC_SECTION_194J_PLACEHOLDER"
+}

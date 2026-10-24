@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cls_ip_transfer_001",
+    "source": "clauses",
+    "title": "Intellectual Property Assignment",
+    "text": "Creator hereby assigns all worldwide right, title, and interest in and to Deliverables upon final milestone settlement.",
+    "url": "https://asci.social/guidelines/ip-provisions",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "category": "ip"
+    }
+  },
+  {
+    "id": "cls_disclosure_002",
+    "source": "clauses",
+    "title": "Promotional Disclosure Clause",
+    "text": "Creator must prominently display promotional disclosure (#Ad, #Sponsored) at beginning of all published content in accordance with FTC guidelines.",
+    "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "category": "disclosure"
+    }
+  },
+  {
+    "id": "cls_exclusivity_003",
+    "source": "clauses",
+    "title": "Category Exclusivity Window",
+    "text": "Creator shall not endorse direct audio tech competitors for 30 days post-launch.",
+    "url": "https://asci.social/contracts/exclusivity-templates",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "category": "exclusivity"
+    }
+  },
+  {
+    "id": "cls_milestone_settle_004",
+    "source": "clauses",
+    "title": "Milestone Disbursement Terms",
+    "text": "Compensation shall be released in accordance with the milestone schedule upon written verification of deliverable metrics.",
+    "url": "https://asci.social/contracts/payment-terms",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "category": "payment"
+    }
+  },
+  {
+    "id": "cls_termination_005",
+    "source": "clauses",
+    "title": "Termination for Cause",
+    "text": "Either party may terminate agreement immediately if deliverables contain defamatory or copyright infringing materials.",
+    "url": "https://asci.social/contracts/termination",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "category": "termination"
+    }
+  },
+  {
+    "id": "cls_dispute_006",
+    "source": "clauses",
+    "title": "Dispute Resolution and Arbitration",
+    "text": "Any dispute arising under this agreement shall be settled through binding commercial arbitration in Bengaluru, Karnataka.",
+    "url": "https://asci.social/contracts/arbitration",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "category": "dispute"
+    }
+  }
+]

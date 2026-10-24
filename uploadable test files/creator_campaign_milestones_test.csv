@@ -1,0 +1,25 @@
+deal_id,creator_handle,platform,followers_count,engagement_rate_pct,milestone_number,milestone_name,gross_fee_usd,tds_withheld_usd,net_payout_usd,compliance_status
+PACT-101,AlexRiveraTech,YouTube,450000,4.8,1,Concept & Script Approval,1687.5,168.75,1518.75,Verified
+PACT-101,AlexRiveraTech,YouTube,450000,4.8,2,Rough Cut Review,2362.5,236.25,2126.25,Under_Review
+PACT-101,AlexRiveraTech,YouTube,450000,4.8,3,Final Video Published & Live,2700.0,270.0,2430.0,Pending
+PACT-102,PriyaSharmaCode,YouTube,280000,6.2,1,Concept & Script Approval,1050.0,105.0,945.0,Verified
+PACT-102,PriyaSharmaCode,YouTube,280000,6.2,2,Rough Cut Review,1470.0,147.0,1323.0,Under_Review
+PACT-102,PriyaSharmaCode,YouTube,280000,6.2,3,Final Video Published & Live,1680.0,168.0,1512.0,Pending
+PACT-103,DevWithDan,Twitter/X,120000,3.4,1,Concept & Script Approval,450.0,45.0,405.0,Verified
+PACT-103,DevWithDan,Twitter/X,120000,3.4,2,Rough Cut Review,630.0,63.0,567.0,Under_Review
+PACT-103,DevWithDan,Twitter/X,120000,3.4,3,Final Video Published & Live,720.0,72.0,648.0,Pending
+PACT-104,MayaGamerPro,Twitch,310000,7.1,1,Concept & Script Approval,1162.5,116.25,1046.25,Verified
+PACT-104,MayaGamerPro,Twitch,310000,7.1,2,Rough Cut Review,1627.5,162.75,1464.75,Under_Review
+PACT-104,MayaGamerPro,Twitch,310000,7.1,3,Final Video Published & Live,1860.0,186.0,1674.0,Pending
+PACT-105,SamAIReviews,TikTok,650000,5.5,1,Concept & Script Approval,2437.5,243.75,2193.75,Verified
+PACT-105,SamAIReviews,TikTok,650000,5.5,2,Rough Cut Review,3412.5,341.25,3071.25,Under_Review
+PACT-105,SamAIReviews,TikTok,650000,5.5,3,Final Video Published & Live,3900.0,390.0,3510.0,Pending
+PACT-106,ElenaVlogs,Instagram,520000,4.2,1,Concept & Script Approval,1950.0,195.0,1755.0,Verified
+PACT-106,ElenaVlogs,Instagram,520000,4.2,2,Rough Cut Review,2730.0,273.0,2457.0,Under_Review
+PACT-106,ElenaVlogs,Instagram,520000,4.2,3,Final Video Published & Live,3120.0,312.0,2808.0,Pending
+PACT-107,KavitaCrafts,YouTube,190000,8.0,1,Concept & Script Approval,712.5,71.25,641.25,Verified
+PACT-107,KavitaCrafts,YouTube,190000,8.0,2,Rough Cut Review,997.5,99.75,897.75,Under_Review
+PACT-107,KavitaCrafts,YouTube,190000,8.0,3,Final Video Published & Live,1140.0,114.0,1026.0,Pending
+PACT-108,TechBroLeo,YouTube,890000,3.9,1,Concept & Script Approval,3337.5,333.75,3003.75,Verified
+PACT-108,TechBroLeo,YouTube,890000,3.9,2,Rough Cut Review,4672.5,467.25,4205.25,Under_Review
+PACT-108,TechBroLeo,YouTube,890000,3.9,3,Final Video Published & Live,5340.0,534.0,4806.0,Pending

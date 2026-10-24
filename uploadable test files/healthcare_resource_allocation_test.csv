@@ -1,0 +1,201 @@
+patient_id,race,gender,age,chronic_conditions,systolic_bp,prior_er_visits,clinical_risk_score,admitted_priority_care
+MED-8000,Asian,Male,21,2,104,1,60.9,1
+MED-8001,Caucasian,Male,26,0,90,1,30.5,0
+MED-8002,African American,Female,52,5,115,0,77.7,1
+MED-8003,Caucasian,Female,38,0,131,0,45.4,1
+MED-8004,Hispanic,Male,75,1,130,0,51.4,0
+MED-8005,Caucasian,Male,35,3,131,2,94.1,1
+MED-8006,Caucasian,Female,60,1,103,0,44.8,0
+MED-8007,Caucasian,Male,23,2,142,2,72.3,1
+MED-8008,Caucasian,Female,84,2,132,0,60.1,1
+MED-8009,Caucasian,Female,29,1,141,1,55.2,1
+MED-8010,Hispanic,Male,29,3,94,0,49.9,0
+MED-8011,African American,Female,83,1,134,2,64.0,1
+MED-8012,Caucasian,Male,19,2,107,0,57.0,1
+MED-8013,Caucasian,Female,32,2,121,0,57.7,0
+MED-8014,Caucasian,Male,40,2,138,0,54.4,0
+MED-8015,Hispanic,Female,46,0,130,1,44.6,0
+MED-8016,Asian,Male,24,1,113,2,59.2,1
+MED-8017,Asian,Male,45,4,128,0,70.0,1
+MED-8018,Hispanic,Female,31,0,100,2,49.6,1
+MED-8019,Caucasian,Female,61,1,149,0,53.6,0
+MED-8020,Caucasian,Female,47,0,124,1,38.2,0
+MED-8021,African American,Male,49,2,148,1,65.2,1
+MED-8022,Asian,Female,23,4,119,2,97.2,1
+MED-8023,Caucasian,Male,44,2,119,1,61.8,1
+MED-8024,Caucasian,Male,41,0,114,0,40.2,0
+MED-8025,Hispanic,Female,51,0,144,0,51.1,1
+MED-8026,Caucasian,Male,57,1,115,1,57.6,1
+MED-8027,Caucasian,Female,64,0,140,1,47.3,1
+MED-8028,African American,Female,41,1,121,0,33.8,0
+MED-8029,Caucasian,Female,82,3,92,1,67.2,1
+MED-8030,Caucasian,Female,35,0,118,2,61.9,0
+MED-8031,Hispanic,Female,61,3,107,0,61.9,1
+MED-8032,African American,Male,74,2,129,1,56.8,0
+MED-8033,Asian,Female,45,2,107,1,56.7,1
+MED-8034,Caucasian,Male,40,1,145,3,76.6,1
+MED-8035,Caucasian,Male,51,2,126,0,52.3,1
+MED-8036,African American,Female,28,1,125,2,50.7,0
+MED-8037,African American,Female,52,1,140,2,67.5,0
+MED-8038,Caucasian,Female,59,5,145,1,97.6,1
+MED-8039,Hispanic,Male,45,3,128,1,85.3,1
+MED-8040,Caucasian,Female,41,1,114,1,52.7,0
+MED-8041,Caucasian,Male,25,2,96,0,51.1,0
+MED-8042,Caucasian,Female,70,0,116,1,42.2,0
+MED-8043,Caucasian,Female,21,0,117,1,43.6,0
+MED-8044,Caucasian,Female,22,2,130,1,58.7,1
+MED-8045,African American,Male,66,2,122,0,51.4,1
+MED-8046,African American,Male,47,1,140,0,57.4,0
+MED-8047,Asian,Male,80,0,117,1,44.1,1
+MED-8048,Caucasian,Female,64,1,127,0,46.1,0
+MED-8049,Caucasian,Female,43,1,149,1,65.1,0
+MED-8050,Caucasian,Male,74,0,134,2,58.7,1
+MED-8051,Caucasian,Female,54,1,127,0,58.1,0
+MED-8052,African American,Female,24,0,117,1,43.9,0
+MED-8053,African American,Female,57,1,117,0,39.8,0
+MED-8054,Hispanic,Female,56,0,113,2,49.3,1
+MED-8055,Caucasian,Female,79,5,118,2,100.0,1
+MED-8056,Caucasian,Male,70,4,142,1,95.6,1
+MED-8057,Caucasian,Male,21,3,124,1,67.1,1
+MED-8058,Caucasian,Male,42,0,104,1,40.5,0
+MED-8059,African American,Female,24,0,160,1,51.5,1
+MED-8060,Asian,Female,45,1,134,0,47.4,0
+MED-8061,Caucasian,Female,84,0,103,3,59.1,1
+MED-8062,Hispanic,Male,37,1,120,0,49.7,0
+MED-8063,African American,Male,28,3,130,1,73.6,1
+MED-8064,Caucasian,Male,84,2,159,1,74.9,1
+MED-8065,African American,Male,24,0,108,0,29.7,0
+MED-8066,Caucasian,Female,40,1,146,0,68.3,1
+MED-8067,Caucasian,Female,78,3,153,0,77.3,1
+MED-8068,African American,Female,51,2,117,1,58.9,0
+MED-8069,Hispanic,Female,36,1,123,0,53.5,1
+MED-8070,Caucasian,Male,75,2,109,0,59.5,0
+MED-8071,Caucasian,Male,26,1,124,1,64.2,0
+MED-8072,Hispanic,Male,65,2,127,1,76.5,1
+MED-8073,Hispanic,Female,58,2,140,4,97.5,1
+MED-8074,African American,Female,65,0,148,0,42.7,0
+MED-8075,Caucasian,Male,62,2,115,0,53.5,1
+MED-8076,Asian,Male,42,1,93,3,60.4,0
+MED-8077,Caucasian,Male,42,1,128,1,54.4,0
+MED-8078,African American,Male,36,2,133,0,66.1,1
+MED-8079,Caucasian,Male,56,1,132,0,49.6,1
+MED-8080,African American,Male,44,1,122,0,51.5,0
+MED-8081,Caucasian,Male,80,0,130,1,50.4,1
+MED-8082,Caucasian,Female,36,1,155,1,59.0,0
+MED-8083,Caucasian,Female,45,2,135,2,67.9,1
+MED-8084,Caucasian,Male,50,1,121,2,56.1,0
+MED-8085,African American,Male,27,3,119,1,71.6,1
+MED-8086,Hispanic,Male,47,2,125,0,58.2,1
+MED-8087,Asian,Male,39,0,157,2,59.9,1
+MED-8088,Caucasian,Male,20,0,125,3,65.0,1
+MED-8089,African American,Female,65,2,128,1,63.8,1
+MED-8090,African American,Female,19,2,119,1,65.0,0
+MED-8091,Caucasian,Female,71,1,148,0,55.0,0
+MED-8092,Caucasian,Male,23,1,163,1,75.6,1
+MED-8093,African American,Female,57,2,136,0,55.9,0
+MED-8094,Asian,Male,19,2,129,0,69.7,1
+MED-8095,African American,Male,19,0,129,1,43.7,0
+MED-8096,Caucasian,Female,72,0,90,1,28.3,0
+MED-8097,African American,Female,77,2,141,0,61.2,0
+MED-8098,Caucasian,Female,23,2,130,0,75.2,1
+MED-8099,Hispanic,Female,36,0,136,1,53.3,1
+MED-8100,African American,Female,44,0,115,0,37.5,0
+MED-8101,Caucasian,Female,18,1,121,2,66.3,1
+MED-8102,Hispanic,Female,50,1,121,0,42.5,0
+MED-8103,Caucasian,Female,57,1,146,1,63.4,1
+MED-8104,Asian,Female,49,1,121,0,46.3,0
+MED-8105,Caucasian,Female,34,2,165,2,94.5,1
+MED-8106,Caucasian,Female,25,3,136,0,70.3,1
+MED-8107,Caucasian,Male,74,1,105,0,39.6,0
+MED-8108,Caucasian,Female,59,2,126,1,60.0,1
+MED-8109,Caucasian,Male,26,2,116,1,63.5,0
+MED-8110,African American,Male,52,0,90,0,28.5,0
+MED-8111,African American,Male,70,3,157,3,95.1,1
+MED-8112,African American,Female,71,1,141,0,54.6,1
+MED-8113,Caucasian,Female,42,3,138,1,80.6,1
+MED-8114,African American,Male,84,1,131,1,62.4,1
+MED-8115,Caucasian,Male,79,2,103,1,65.0,0
+MED-8116,African American,Male,72,0,119,1,44.2,0
+MED-8117,Caucasian,Female,63,1,143,0,47.7,1
+MED-8118,Asian,Male,41,1,109,0,38.5,0
+MED-8119,African American,Male,63,1,90,1,53.8,0
+MED-8120,African American,Male,39,1,124,2,64.0,0
+MED-8121,Caucasian,Female,28,3,125,1,84.2,1
+MED-8122,Caucasian,Male,65,1,130,2,67.5,1
+MED-8123,Caucasian,Female,25,0,141,0,46.1,0
+MED-8124,Hispanic,Male,56,2,139,0,66.4,1
+MED-8125,Asian,Female,52,0,133,1,41.8,0
+MED-8126,Caucasian,Male,66,0,150,1,54.5,1
+MED-8127,African American,Female,63,2,101,1,52.1,1
+MED-8128,African American,Male,55,2,137,1,67.7,1
+MED-8129,African American,Female,25,0,139,1,52.9,1
+MED-8130,Caucasian,Female,71,2,106,0,46.7,0
+MED-8131,Caucasian,Female,54,0,101,0,33.1,0
+MED-8132,Caucasian,Female,57,1,115,1,45.0,0
+MED-8133,Hispanic,Male,51,1,116,1,58.5,1
+MED-8134,Caucasian,Female,34,1,142,2,65.3,1
+MED-8135,Caucasian,Female,50,3,117,0,60.0,1
+MED-8136,Asian,Male,64,1,113,0,36.7,0
+MED-8137,African American,Female,69,1,117,0,42.2,0
+MED-8138,Hispanic,Male,26,2,148,0,54.9,0
+MED-8139,Caucasian,Male,50,1,128,1,53.7,0
+MED-8140,Caucasian,Male,77,5,125,1,100.0,1
+MED-8141,Asian,Male,38,0,126,1,44.9,0
+MED-8142,Caucasian,Female,75,3,151,1,77.4,1
+MED-8143,Caucasian,Male,27,0,115,1,43.6,0
+MED-8144,Caucasian,Male,23,1,152,2,72.3,1
+MED-8145,Caucasian,Male,30,1,132,0,59.4,1
+MED-8146,Caucasian,Female,82,0,125,1,49.5,0
+MED-8147,Hispanic,Female,37,2,173,0,73.4,1
+MED-8148,Asian,Male,74,0,109,3,61.2,1
+MED-8149,Asian,Male,63,1,122,2,61.9,1
+MED-8150,Caucasian,Male,25,3,106,2,77.4,1
+MED-8151,Caucasian,Female,27,2,145,0,71.8,1
+MED-8152,Caucasian,Female,84,2,158,1,67.2,1
+MED-8153,Hispanic,Male,28,0,158,0,52.2,0
+MED-8154,Caucasian,Male,29,1,150,2,70.4,1
+MED-8155,African American,Female,27,0,124,0,35.7,0
+MED-8156,African American,Female,42,2,121,1,61.5,1
+MED-8157,Caucasian,Male,66,2,98,0,50.2,0
+MED-8158,Caucasian,Male,66,2,165,1,77.3,1
+MED-8159,Asian,Male,28,1,136,1,56.7,0
+MED-8160,Asian,Female,79,0,119,0,32.2,0
+MED-8161,Caucasian,Female,53,0,152,0,36.1,0
+MED-8162,Caucasian,Female,56,2,110,2,65.4,1
+MED-8163,Asian,Female,70,2,135,0,57.9,1
+MED-8164,Caucasian,Male,73,0,125,0,38.3,0
+MED-8165,Caucasian,Female,18,0,139,1,59.5,0
+MED-8166,Caucasian,Female,73,1,127,0,45.0,0
+MED-8167,African American,Male,21,2,102,1,53.5,0
+MED-8168,Caucasian,Female,47,2,129,1,63.1,1
+MED-8169,Caucasian,Male,29,2,147,0,64.9,1
+MED-8170,Caucasian,Male,52,1,127,0,51.0,1
+MED-8171,African American,Female,69,3,142,0,76.2,1
+MED-8172,Asian,Female,48,1,109,2,62.8,1
+MED-8173,Hispanic,Female,69,1,128,0,53.2,1
+MED-8174,Hispanic,Male,24,5,117,1,91.7,1
+MED-8175,African American,Female,39,2,141,0,72.6,1
+MED-8176,Caucasian,Female,73,1,129,0,46.9,0
+MED-8177,Caucasian,Male,75,2,140,0,62.5,1
+MED-8178,Asian,Female,81,0,148,2,66.9,0
+MED-8179,Caucasian,Female,29,1,140,1,62.8,1
+MED-8180,Caucasian,Male,24,0,133,0,28.7,0
+MED-8181,African American,Female,72,0,110,0,33.0,0
+MED-8182,Caucasian,Male,79,1,128,1,60.7,1
+MED-8183,Caucasian,Male,72,3,118,1,66.7,1
+MED-8184,Asian,Male,53,1,122,0,50.4,1
+MED-8185,Hispanic,Female,41,0,121,0,38.3,0
+MED-8186,Caucasian,Male,61,0,110,1,46.9,0
+MED-8187,Asian,Female,34,2,93,1,52.4,0
+MED-8188,African American,Male,19,0,116,0,39.8,0
+MED-8189,African American,Female,30,4,131,1,88.1,1
+MED-8190,Caucasian,Female,48,2,104,0,60.0,1
+MED-8191,Caucasian,Female,45,1,128,0,62.3,1
+MED-8192,African American,Male,77,0,162,1,64.3,1
+MED-8193,Hispanic,Female,44,3,146,0,76.2,1
+MED-8194,African American,Female,32,3,158,1,97.0,1
+MED-8195,Caucasian,Female,50,1,135,0,53.5,0
+MED-8196,Caucasian,Female,37,0,149,0,40.2,0
+MED-8197,Hispanic,Female,59,2,115,1,62.3,1
+MED-8198,Caucasian,Male,29,0,116,0,38.6,0
+MED-8199,African American,Female,40,0,90,0,31.1,0

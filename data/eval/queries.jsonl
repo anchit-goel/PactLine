@@ -1,0 +1,5 @@
+{"query_id": "q1", "text": "What are mandatory disclosure requirements for sponsored videos?", "expected_ids": ["reg_ftc_endorsement_001", "reg_asci_influencer_002", "cls_disclosure_002"]}
+{"query_id": "q2", "text": "Find tech hardware review creators within $10,000 budget", "expected_ids": ["crt_alex_tech_001"]}
+{"query_id": "q3", "text": "Category non-compete and exclusivity window clauses", "expected_ids": ["cls_exclusivity_003"]}
+{"query_id": "q4", "text": "Statutory tax withholding rate for creator milestone payments", "expected_ids": ["reg_tds_194j_003"]}
+{"query_id": "q5", "text": "IP assignment and ownership transfer upon final payment", "expected_ids": ["cls_ip_transfer_001"]}

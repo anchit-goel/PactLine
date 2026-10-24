@@ -1,0 +1,38 @@
+[
+  {
+    "id": "reg_ftc_endorsement_001",
+    "source": "regulatory",
+    "title": "FTC Endorsement Guides 16 CFR Part 255",
+    "text": "Disclosures must be clear, conspicuous, placed above the fold, and use unambiguous terms like #Ad or #Sponsored.",
+    "url": "https://www.ftc.gov/legal-library/browse/rules/endorsement-guides-part-255",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "authority": "FTC"
+    }
+  },
+  {
+    "id": "reg_asci_influencer_002",
+    "source": "regulatory",
+    "title": "ASCI Guidelines for Influencer Advertising",
+    "text": "Promotional labels must be prominently visible across digital media platforms without requiring users to click See More.",
+    "url": "https://asci.social/guidelines/influencer-advertising",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "authority": "ASCI"
+    }
+  },
+  {
+    "id": "reg_tds_194j_003",
+    "source": "regulatory",
+    "title": "Income Tax Act 1961 - Section 194J Professional Services",
+    "text": "Tax deduction at source of 10% on payments for technical or professional fees exceeding threshold limits.",
+    "url": "https://incometax.gov.in/section-194j",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "authority": "ITD"
+    }
+  }
+]

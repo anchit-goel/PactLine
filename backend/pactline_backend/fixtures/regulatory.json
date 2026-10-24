@@ -1,0 +1,20 @@
+[
+  {
+    "id": "reg_ftc_endorsement_001",
+    "title": "SYNTHETIC PLACEHOLDER - FTC Endorsement Guides 16 CFR Part 255",
+    "snippet": "Disclosures must be prominent, unambiguous, and placed above the fold or in the primary caption/visual overlay so an ordinary consumer cannot miss them before engaging with content.",
+    "jurisdiction": "US_FTC"
+  },
+  {
+    "id": "reg_eu_digital_services_002",
+    "title": "SYNTHETIC PLACEHOLDER - EU Digital Services Act Article 26",
+    "snippet": "Influencer commercial communications must clearly state the commercial nature of the communication and identify on whose behalf the promotional material is presented.",
+    "jurisdiction": "EU_DSA"
+  },
+  {
+    "id": "reg_tax_withholding_003",
+    "title": "SYNTHETIC PLACEHOLDER - Statutory Withholding on Independent Contractor Remuneration",
+    "snippet": "Payer entities are required to deduct statutory withholding at the applicable prescribed rate from each gross milestone disbursement unless a valid tax exemption certificate is lodged.",
+    "jurisdiction": "GLOBAL_TAX"
+  }
+]

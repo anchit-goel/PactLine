@@ -1,0 +1,41 @@
+[
+  {
+    "id": "crt_alex_tech_001",
+    "source": "creators",
+    "title": "Alex Tech Reviews",
+    "text": "Consumer audio hardware reviewer with 250k subscribers. Rate card: $10,000 per dedicated 3-stage video.",
+    "url": "https://youtube.com/@alextechreviews",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "niche": "tech",
+      "rate_usd": 10000
+    }
+  },
+  {
+    "id": "crt_sam_gaming_002",
+    "source": "creators",
+    "title": "Sam Plays Gaming",
+    "text": "Live gameplay streamer with 400k followers. Rate card: $7,500 per integrated sponsorship.",
+    "url": "https://twitch.tv/samplays",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "niche": "gaming",
+      "rate_usd": 7500
+    }
+  },
+  {
+    "id": "crt_priya_creator_003",
+    "source": "creators",
+    "title": "Priya Lifestyle & Gadgets",
+    "text": "Tech lifestyle influencer with 180k followers. Rate card: $5,000 per multi-post campaign.",
+    "url": "https://instagram.com/priyagadgets",
+    "date_accessed": "2026-10-23",
+    "verified": true,
+    "metadata": {
+      "niche": "lifestyle",
+      "rate_usd": 5000
+    }
+  }
+]
