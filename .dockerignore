@@ -1,0 +1,10 @@
+.git
+.venv
+__pycache__
+frontend
+PAPER
+outputs
+dataset/data.csv
+*.pyc
+.gemini
+_archive/
